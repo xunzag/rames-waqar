@@ -1,4 +1,3 @@
-```markdown:README.md
 # Rames Waqar - Video Editor Portfolio 🎬
 
 A modern, dynamic portfolio showcasing professional video editing work with stunning animations and interactive elements. Built with Next.js, TypeScript, and Framer Motion.
@@ -122,11 +121,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [xunzag](https://your-portfolio-url.com)
-```
-
-Would you like me to:
-1. Add more technical details?
-2. Include deployment instructions?
-3. Add troubleshooting guides?
-4. Enhance any specific section?
+Made with ❤️ by [xunzag]
