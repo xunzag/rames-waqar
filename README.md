@@ -1,4 +1,3 @@
-```markdown:README.md
 # Rames Waqar - Video Editor Portfolio 🎬
 
 A modern, dynamic portfolio showcasing professional video editing work with stunning animations and interactive elements. Built with Next.js, TypeScript, and Framer Motion.
